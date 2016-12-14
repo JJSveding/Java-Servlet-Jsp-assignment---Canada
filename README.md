@@ -1,13 +1,16 @@
 
 Project Title:
+
     Assignment2 - Login/register appl. with a simple blog. 
     
 What is it about:
+
     Register/Login and a simple blog.
     A project/assignment made in the course WEB APPL DEVELOPMENT USING JAVA.
     Focus of the course and the assignment was to learn Servlet and JSP technology.
 
 What can you do in the application:
+
     Register as a user.
     Login
     Create blog posts.
