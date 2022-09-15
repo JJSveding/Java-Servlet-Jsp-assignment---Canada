@@ -42,8 +42,3 @@ Built with:
     Eclipse
     MySQL
     Tomcat v. 8
-    
-Author:
-
-    Jens Jakob Sveding
-    
